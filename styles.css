@@ -1,0 +1,5 @@
+.carousel img {
+    width: 600px;
+    height: 600px;
+    object-fit: cover; /* Ensures the image covers the entire area without distortion */
+}
